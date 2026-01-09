@@ -1,19 +1,19 @@
 {
-    "id": 179,
-    "name": "acropolicixexoc",
-    "author": "TheAutumnVerse",
+    "id":128114624 ,
+    "name": "bloodshed",
+    "author": "realkanadian",
     "creators": [],
-    "verifier": "DuoFresh",
+    "verifier": "realkanadian",
     "verification": "https://www.youtube.com/watch?v=vJUq9SeF0KI&ab_channel=Scryptol",
     "showcase": "https://www.youtube.com/watch?v=vJUq9SeF0KI&ab_channel=Scryptol",
-    "password": "No Copy",
+    "password": "free to copy",
     "percentToQualify": 55,
 "records": [
          {
-            "user": "Scryptol",
-            "link": "https://www.youtube.com/watch?v=vJUq9SeF0KI&ab_channel=Scryptol",
+            "user": "realkanadian",
+            "link": "",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
